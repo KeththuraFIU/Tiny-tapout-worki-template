@@ -1,6 +1,6 @@
 thurahura# Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     460929396775570433       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     460853694165103617       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "or gate test run"      # Project title
   author:       "keththura"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
@@ -16,9 +16,9 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "input a"
-  ui[1]: "input b"
-  ui[2]: ""
+  ui[0]: "A"
+  ui[1]: "B"
+  ui[2]: "Cin"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -26,8 +26,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "output or_gate"
-  uo[1]: ""
+  uo[0]: "S"
+  uo[1]: "Cout"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
