@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-it is a 2 input or gate , take 2 inputs and provide one output
+it is a 2 input or gdh gate , take 2 inputs and provide one output
 
 ## How to test
 
-test with test samples of 1 bit inputs 
+test with test samples uuyfuy of 1 bit inputs 
 
 ## External hardware
 
