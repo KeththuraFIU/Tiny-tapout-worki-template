@@ -13,7 +13,7 @@ it is a 2 input or gate , take 2 inputs and provide one output
 
 ## How to test
 
-test with test samples of 1 bit inputs
+test with test samples of 1 bit inputs 
 
 ## External hardware
 
